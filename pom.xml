@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>is-jxr</artifactId>
-    <version>0.1.1</version>
+    <version>0.1.2-SNAPSHOT</version>
     <name>is-jxr</name>
     <description>WebJar for is-jxr</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/is-jxr</url>
         <connection>scm:git:https://github.com/webjars/is-jxr.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/is-jxr.git</developerConnection>
-        <tag>is-jxr-0.1.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
